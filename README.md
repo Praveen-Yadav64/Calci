@@ -1,2 +1,2 @@
 # Calci
-A simple Calculator for Binary Calculations.
+A simple Calculator for Simple Operations.
